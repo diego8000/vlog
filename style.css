@@ -1,0 +1,39 @@
+.travel_mainDiv{
+    border:1px solid blue;
+    background:linear-gradient(90deg, rgba(0,255,77,1) 0%, rgba(151,255,0,1) 50%, rgba(0,198,231,1) 100%);
+}
+
+.travel_mainDiv img{
+    width:40%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p{
+    margin:20px;
+}
+
+.movie_head{
+font-size:20px;
+padding:6px 22px;
+border-radius:10px;
+margin-bottom:15px;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.movie_text span{
+color:gold;
+}
+
+.juegos{
+    margin-bottom:20px;
+}
+
+#contact iframe{
+    width:100%;
+}
+
+#contacto{
+    margin-left:5px;
+}
